@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519824917066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1815146832",
+    "id" : "FBAFAB7B",
+    "lastKnownWriteTime" : 1518956145,
+    "last_content_update" : 1518956145,
+    "path" : "~/Downloads/machine learning'/Machine_Learning_AZ_Template_Folder/Machine Learning A-Z Template Folder/Part 10 - Model Selection & Boosting/Section 48 - Model Selection/Model_Selection/k_fold_cross_validation.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "47,0",
+        "scrollLine" : "39"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

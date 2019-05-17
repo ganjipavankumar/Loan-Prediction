@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519749425013.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2379332158",
+    "id" : "9841460A",
+    "lastKnownWriteTime" : 1485393485,
+    "last_content_update" : 1485393485,
+    "path" : "~/Downloads/machine learning'/Machine_Learning_AZ_Template_Folder/Machine Learning A-Z Template Folder/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Kernel_PCA/kernel_pca.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

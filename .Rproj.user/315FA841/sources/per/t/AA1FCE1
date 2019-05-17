@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519200609015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "315960439",
+    "id" : "AA1FCE1",
+    "lastKnownWriteTime" : 1519827928,
+    "last_content_update" : 1519827928008,
+    "path" : "~/Documents/Data Science/Loan Prediction Project/LP.R",
+    "project_path" : "LP.R",
+    "properties" : {
+        "cursorPosition" : "229,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
